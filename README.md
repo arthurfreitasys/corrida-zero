@@ -1,4 +1,4 @@
-# Corrida do Zero
+# Corrida do Zero (Feito inteiramente com IA)
 
 Aplicativo web progressivo (PWA) para acompanhar um plano de corrida para iniciantes.
 
@@ -13,17 +13,9 @@ Aplicativo web progressivo (PWA) para acompanhar um plano de corrida para inicia
 - Exportação e importação de backup em JSON.
 - Armazenamento local no navegador e suporte básico a uso offline.
 
-## Como executar localmente
+## Como acessar
 
-Como o projeto usa Service Worker, execute por um servidor HTTP local. Uma opção com Python:
-
-```bash
-python -m http.server 8000
-```
-
-Depois acesse `http://localhost:8000`.
-
-Também é possível publicar os arquivos em GitHub Pages, Netlify ou outro host estático com HTTPS.
+https://vercel.com/arthurfreitasys/corrida-zero
 
 ## Dados
 
