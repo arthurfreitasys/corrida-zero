@@ -15,7 +15,7 @@ Aplicativo web progressivo (PWA) para acompanhar um plano de corrida para inicia
 
 ## Como acessar
 
-https://vercel.com/arthurfreitasys/corrida-zero
+[Vercel](https://corrida-zero.vercel.app/)
 
 ## Dados
 
